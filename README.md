@@ -1,6 +1,6 @@
 # Calculator
 
-A simple calculator application built with [Your Language/Framework] (e.g. Java, Python, JavaScript, etc.) that performs basic arithmetic operations.
+A simple calculator application built with kotlin that performs basic arithmetic operations.
 
 ---
 
@@ -15,8 +15,8 @@ A simple calculator application built with [Your Language/Framework] (e.g. Java,
 
 ## 🛠️ Built With
 
-- **Language / Framework**: e.g. Java 11, Python 3.10, React, etc.  
-- **IDE or Tools**: e.g. IntelliJ IDEA, VS Code, tkinter, HTML/CSS/JS, etc.
+- **Language / Framework**: e.g. Java 11, Kotlin etc.  
+- **IDE or Tools**: e.g. IntelliJ IDEA, Android Studio etc.
 
 ---
 
@@ -24,21 +24,4 @@ A simple calculator application built with [Your Language/Framework] (e.g. Java,
 
 ### Prerequisites
 
-- Installed language runtime or tools: e.g. `Python 3`, `Java JDK 11+`, browser for JS, etc.
-
-### Installation & Usage
-
-Run these commands in your project directory:
-
-```bash
-# Clone the repository
-git clone https://github.com/Nikunj2311/Calculator.git
-
-# Move into the project folder
-cd Calculator
-
-# (if applicable) install dependencies
-# e.g. pip install -r requirements.txt or npm install
-
-# Run the project
-# e.g. python calc.py or java Calculator.java or open index.html
+- Installed language runtime or tools: e.g.  `Java JDK 11+`, browser for JS, etc.
